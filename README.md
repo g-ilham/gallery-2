@@ -1,4 +1,6 @@
 # README
+[![Build Status](https://semaphoreci.com/api/v1/ilgam/gallery/branches/master/badge.svg)](https://semaphoreci.com/ilgam/gallery)
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
