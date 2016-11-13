@@ -1,6 +1,6 @@
 # README
-[![Build Status](https://semaphoreci.com/api/v1/ilgam/gallery/branches/master/badge.svg)](https://semaphoreci.com/ilgam/gallery)
-
+[![Build Status](https://semaphoreci.com/api/v1/ilgam/gallery/branches/master/shields_badge.svg)](https://semaphoreci.com/ilgam/gallery)
+[![Code Climate](https://codeclimate.com/github/g-ilham/gallery/badges/gpa.svg)](https://codeclimate.com/github/g-ilham/gallery)
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
